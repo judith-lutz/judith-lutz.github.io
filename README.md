@@ -1,19 +1,3 @@
-<html>
-<head>
-<style>
-ul {
-  padding-left: 20px;
- }
- 
-</style>
-</head>
-  <meta http-equiv="content-type" content="text/html">
-  <title>~</title>
- <head>
- 
-
-
-
 <body>
 
   <table cellspacing="0" width="100%">
@@ -60,6 +44,3 @@ style="list-style-type:circle">
   </li>
 <br>
 
-
-</body>
-</html>
