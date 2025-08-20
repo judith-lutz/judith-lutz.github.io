@@ -19,8 +19,8 @@
 <br>
 I am currently working in the mountains in Austria for a gap summer. Here is my
 <a
- href="cv.pdf"
- name="cv.pdf">CV</a> (updated August 2025).
+ href="cvtest.pdf"
+ name="cvtest.pdf">CV</a> (updated August 2025).
 <br>
 
 
