@@ -1,5 +1,3 @@
-# judith-lutz.github.io
-
 <html>
 <head>
 <style>
@@ -9,7 +7,6 @@ ul {
  
 </style>
 </head>
-</style>
   <meta http-equiv="content-type" content="text/html">
   <title>~</title>
  <head>
