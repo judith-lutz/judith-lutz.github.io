@@ -10,14 +10,14 @@
    title="Willmaster logo in fixed position" />-->
     
 
-    ~@posteo.de (replace ~ by judith lutz without the space)
+    Contact:~@posteo.de (replace ~ by judith lutz without the space)
    <br>
    
 
   
      
 <br>
-I am currently working in the mountains. Here is my
+I am currently working in the mountains in Austria for a gap summer. Here is my
 <a
  href="cv.pdf"
  name="cv.pdf">CV</a> (updated August 2025).
