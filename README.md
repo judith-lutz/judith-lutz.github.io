@@ -22,10 +22,10 @@ ul {
       <br>
       <br>
       
-<img src="drawing2.jpg" 
+<!-- <img src="drawing2.jpg" 
    style="float:right; width:620px; height:858.5px; border:none;"
    alt="fixed position Willmaster logo"
-   title="Willmaster logo in fixed position" />
+   title="Willmaster logo in fixed position" />-->
      School of Mathematics and Statistics
 blabla <br>
 University Place <br>
