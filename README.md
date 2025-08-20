@@ -1,6 +1,6 @@
   <table cellspacing="0" width="100%">
   
-   <font size="+3"><b>Judith1 Lutz</b></font>
+   <font size="+3"><b>Judith Lutz</b></font>
       <br>
       <br>
       
