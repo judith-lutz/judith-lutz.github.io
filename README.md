@@ -45,10 +45,10 @@ style="list-style-type:circle">
 <h3>Publications</h3>
 <ul
 style="list-style-type:circle">
-  <li> 
+<li> 
   PhD Thesis: <a
  href="https://repositorium.uni-muenster.de/document/miami/17aedd3d-570b-4630-8c13-ca940dfd9fa2/diss_lutz_2025.pdf"
- name="Thesis">
+ name="Thesis">p-adic</a>
   </li>
     
 <br>
