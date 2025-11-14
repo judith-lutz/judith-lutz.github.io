@@ -50,8 +50,5 @@ style="list-style-type:circle">
  href="https://repositorium.uni-muenster.de/document/miami/17aedd3d-570b-4630-8c13-ca940dfd9fa2/diss_lutz_2025.pdf"
  name="Thesis">
   </li>
-
-    <li>
-          <a href="https://repositorium.uni-muenster.de/document/miami/17aedd3d-570b-4630-8c13-ca940dfd9fa2/diss_lutz_2025.pdf">Research</a>
-    </li>
+    
 <br>
