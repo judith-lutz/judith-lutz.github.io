@@ -48,7 +48,7 @@ style="list-style-type:circle">
 <li> 
   PhD Thesis: <a
  href="https://repositorium.uni-muenster.de/document/miami/17aedd3d-570b-4630-8c13-ca940dfd9fa2/diss_lutz_2025.pdf"
- name="Thesis">p-adic</a>
+ name="Thesis">p-adic points of rational Witt spaces</a>
   </li>
     
 <br>
