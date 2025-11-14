@@ -41,4 +41,13 @@ style="list-style-type:circle">
   Summer term 2022 (University of Münster): Seminar on elliptic curves (aimed for master students)
   </li>
 <br>
-
+<br>
+<h3>Publications</h3>
+<ul
+style="list-style-type:circle">
+  <li> 
+  PhD Thesis: <a
+ href="https://repositorium.uni-muenster.de/document/miami/17aedd3d-570b-4630-8c13-ca940dfd9fa2/diss_lutz_2025.pdf"
+ name="Thesis">
+  </li>
+<br>
