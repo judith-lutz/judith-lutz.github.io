@@ -1,1 +1,58 @@
+<!--- This is written in Markdown ---!>
+  <table cellspacing="0" width="100%">
+  
+   <font size="+3"><b>Judith Lutz</b></font>
+      <br>
+      <br>
+      
+ <img src="Gipfel.jpg" 
+   style="float:right; width:400px; height:300px; border:none;"
+   alt="Peak"
+   title="Peak" />
 
+    This web page is work in progress (November 2025). 
+<br>
+<br>
+    Contact:~@posteo.de (replace ~ by judith lutz without the space)
+   <br>
+   
+
+  
+ <!---    
+<br>
+Here is my
+<a
+ href="cvtest.pdf"
+ name="cvtest.pdf">CV</a> (updated August 2025).
+<br>
+<br>
+---!>
+
+<h3>Careerpath</h3>
+
+After my undergraduate in mathematical physics and mathematics, followed by a master in mathematics, I recently finished my PhD this year in algebraic number theory. My thesis focuses on rational Witt spaces and their relationship with diamonds and the Fargues-Fontaine curve. 
+I would like to apply my research skills in the future to a topic with more real world application. 
+<br>
+<br>
+<h3>Teaching</h3>
+<ul
+style="list-style-type:circle">
+  <li> 
+  Summer term 2023 (University of Münster): Seminar on perfectoid spaces (aimed for master students)
+  </li>
+<br>
+<li> 
+  Summer term 2022 (University of Münster): Seminar on elliptic curves (aimed for master students)
+  </li>
+<br>
+<br>
+<h3>Publications</h3>
+<ul
+style="list-style-type:circle">
+<li> 
+  PhD Thesis: <a
+ href="https://repositorium.uni-muenster.de/document/miami/17aedd3d-570b-4630-8c13-ca940dfd9fa2/diss_lutz_2025.pdf"
+ name="Thesis">p-adic points of rational Witt spaces</a>
+  </li>
+    
+<br>
