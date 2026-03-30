@@ -1,11 +1,12 @@
 body {
-  background-color: tan
+font-family: arial;
+  background-color: lightgrey
 }
 
 p {
   font-family: arial;
   font-size: 15px;
-  color: white;
+  color: darkgrey;
 }
 
 div {
@@ -13,3 +14,9 @@ div {
   width: 300px;
   color: black;
 }
+
+nav {
+  background-color: white;
+  
+}
+
