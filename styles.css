@@ -1,16 +1,26 @@
 body {
-font-family: arial;
+  font-family: Helvetica, arial;
   background-color: lightgrey
 }
 
-p {
-  font-family: arial;
+h1, h2, h3 {
+  font-family: Helvetica;
+}
+
+#game,
+#programmingprojects {
+  font-family: "Lucida Console", "Courier New", arial;
+  background-color: lightgrey
+}
+
+p, div {
+  font-family: Garamond;
   font-size: 15px;
-  color: darkgrey;
+  color: rgba(100,100,100,.93);
 }
 
 div {
-  background-color: white;
+  
   width: 300px;
   color: black;
 }
@@ -20,3 +30,76 @@ nav {
   
 }
 
+nav ul {
+  flex-wrap: wrap;
+  max-width: var(--max-width);
+  display: flex;
+  font-size: 25px;
+  font-family: Helvetica;
+  
+}
+
+nav ul li {
+  list-style-type: none;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+nav ul li a {
+text-decoration: none;
+  color: rgba(100,100,100,.93);
+
+}
+
+
+footer {
+  border-top-style: solid;
+  background-color: rgba(200,200,200,.93);
+  border-color: rgba(100,100,100,.93);
+  margin: 0px;
+  padding: 0px;
+
+}
+
+/* ─── Page sections ─── */
+.page-section {
+      display: none;
+      max-width: var(--max-width);
+      margin: 0 auto;
+      padding: 2.5rem 1.5rem 4rem;
+    }
+.page-section.active { display: block; } 
+
+#banner {
+      width: 100%;
+    }
+
+    #banner img {
+      width: 100%;
+ 
+    }
+    #banner-title {
+      position: absolute;
+      top: 35%;
+      left: 50%;
+transform: translate(-50%, -50%);
+      text-align: center;
+      font-size: 2vw;
+      color: lightgrey;
+    }
+
+  canvas {
+background-color: whitesmoke;
+
+  }
+
+.hidden_link {
+    text-decoration: none;
+  color: rgba(100,100,100,.93);
+}
+
+img.img-tsa-project {
+  height: 30%;
+  width: 50%
+
+}
